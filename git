@@ -1,0 +1,21 @@
+# Navigate to your WordPress project directory
+cd path/to/your/wordpress/project
+
+# Initialize a new Git repository
+git init
+
+# Create a .gitignore file to exclude certain files from version control
+echo "wp-config.php" >> .gitignore
+echo "wp-content/uploads/" >> .gitignore
+
+# Add all files to the staging area
+git add .
+
+# Commit the initial files
+git commit -m "Initial commit"
+
+# Link your local repository to the GitHub repository
+git remote add origin https://github.com/DhanashriK17/MHTECHIN_WordPress.git
+
+# Push your changes to GitHub
+git push -u origin master
