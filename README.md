@@ -33,7 +33,6 @@ Before you begin, ensure you have the following installed:
    - Explore the different features related to social media navigation.
 
 
-
 ## Issues and Bug Reports
 
 If you encounter any issues or want to report a bug, please use the [issue tracker](https://github.com/DhanashriK17/MHTECHIN_WordPress/issues).
